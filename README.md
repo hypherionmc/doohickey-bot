@@ -20,7 +20,7 @@ Currently, I have a very small server running this bot, so I am not allowing jus
 
 ## How to get this bot on my server
 
-## To host this bot yourself is easy. Just follow the steps below:
+To host this bot yourself is easy. Just follow the steps below:
 
 * Download the latest version [HERE](https://hypherionmc.me/bot/Doohickey-0.1-all.jar) or grab the latest dev build from [Jenkins](https://ci.hypherionmc.me/job/DoohickeyBot/)
 * Create a Discord App (find it on google). Give it a nice name and icon then click on Bot. Add a bot and copy your bot token.
