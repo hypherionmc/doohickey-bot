@@ -23,7 +23,7 @@ Currently, I have a very small server running this bot, so I am not allowing jus
 
 ## To host this bot yourself is easy. Just follow the steps below:
 
-    * Download the latest version HERE or grab the latest dev build from Jenkins
+    * Download the latest version [https://hypherionmc.me/bot/Doohickey-0.1-all.jar](HERE) or grab the latest dev build from [https://ci.hypherionmc.me/job/DoohickeyBot/](Jenkins)
     * Create a Discord App (find it on google). Give it a nice name and icon then click on Bot. Add a bot and copy your bot token.
     * Give your bot the following permissions:
         * Send Messages
